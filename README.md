@@ -1,6 +1,6 @@
-# Expense Tracker (MERN)
+# To Do List (MERN)
 
-> Full stack expense tracker
+> MERN Full stack To Do List
 
 ## Usage
 
