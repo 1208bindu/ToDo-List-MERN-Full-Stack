@@ -26,6 +26,6 @@ change config.env file in config folder
  cd client
  npm run build
  
- # Prod
+ # Production
  npm start
 ```
