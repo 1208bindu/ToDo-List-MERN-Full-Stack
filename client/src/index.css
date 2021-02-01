@@ -1,15 +1,14 @@
-body{
-     background: url(./images/a1.jpeg) no-repeat;
+body {
+  background: url(./images/a1.jpeg) no-repeat;
 }
-.im1{
-    margin-top: 20px;
-    width:90%;
+.im1 {
+  margin-top: 20px;
+  width: 90%;
 }
 
-@media screen and (max-width:600px)
-{
-    .im1{
-        margin-top: 10px;
-        width:95%;
-    }
+@media screen and (max-width: 600px) {
+  .im1 {
+    margin-top: 10px;
+    width: 95%;
+  }
 }
